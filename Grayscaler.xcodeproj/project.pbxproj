@@ -13,6 +13,7 @@
 		A1000001FFFFFFFF00000004 /* ControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002FFFFFFFF00000004 /* ControlsView.swift */; };
 		A1000001FFFFFFFF00000005 /* ImageProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002FFFFFFFF00000005 /* ImageProcessor.swift */; };
 		A1000001FFFFFFFF00000006 /* CaptureState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002FFFFFFFF00000008 /* CaptureState.swift */; };
+		A1000001FFFFFFFF00000007 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1000002FFFFFFFF00000009 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1000002FFFFFFFF00000006 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1000002FFFFFFFF00000007 /* Grayscaler.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Grayscaler.entitlements; sourceTree = "<group>"; };
 		A1000002FFFFFFFF00000008 /* CaptureState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureState.swift; sourceTree = "<group>"; };
+		A1000002FFFFFFFF00000009 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1000003FFFFFFFF00000001 /* Grayscaler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Grayscaler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -54,6 +56,7 @@
 				A1000005FFFFFFFF00000004 /* Views */,
 				A1000005FFFFFFFF00000005 /* Services */,
 				A1000005FFFFFFFF00000006 /* Models */,
+				A1000002FFFFFFFF00000009 /* Assets.xcassets */,
 				A1000002FFFFFFFF00000006 /* Info.plist */,
 				A1000002FFFFFFFF00000007 /* Grayscaler.entitlements */,
 			);
@@ -151,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1000001FFFFFFFF00000007 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
