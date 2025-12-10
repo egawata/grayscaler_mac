@@ -5,6 +5,7 @@
 # Xcode
 xcuserdata/
 DerivedData/
+build/
 *.moved-aside
 *.pbxuser
 !default.pbxuser
@@ -31,3 +32,5 @@ DerivedData/
 
 # Claude Code
 .claude/
+
+_mywork/
