@@ -36,6 +36,10 @@
 - macOS 14.0 以降
 - 画面収録の権限が必要です
 
+## インストール
+
+https://github.com/egawata/grayscaler_mac/releases から、最新のバージョンの `.dmg` ファイルをダウンロードして開いてください。
+
 ## ビルド方法
 
 ```bash
