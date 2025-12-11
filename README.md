@@ -20,6 +20,7 @@
 左側は Glayscaler でグレースケール化。
 
 元ウィンドウの画像に変更が加えられると Glayscaler 側にもリアルタイムで反映されます。
+両方を同時に確認しながらのカラーバランス調整がしやすいです。
 
 <img src="docs/screenshot_flip.png" alt="alt text" width="600">
 
