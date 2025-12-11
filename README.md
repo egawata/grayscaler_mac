@@ -14,9 +14,13 @@
 
 ## スクリーンショット
 
+使用例: CLIP STUDIO PAINT で編集中の作品のカラーバランスを Glayscaler でリアルタイムに確認する
+
+※ 編集画面とは別に、CLIP STUDIO PAINT メニューの `ウィンドウ` - `キャンバス` - `新規ウィンドウ` でウィンドウを増やしてそちらをキャプチャすると使いやすいです。
+
 <img src="docs/screenshot.png" alt="alt text" width="600">
 
-右側は Clip Studio Paint の元ウィンドウ。
+右側は CLIP STUDIO PAINT の元ウィンドウ。
 左側は Glayscaler でグレースケール化。
 
 元ウィンドウの画像に変更が加えられると Glayscaler 側にもリアルタイムで反映されます。
@@ -25,6 +29,7 @@
 <img src="docs/screenshot_flip.png" alt="alt text" width="600">
 
 グレースケール化＋左右反転。
+元々 CLIP STUIDO PAINT では左右反転画面を同時に確認できるので不要ですが、Photoshop などを使用する場合は便利だと思います。
 
 ## 動作環境
 
